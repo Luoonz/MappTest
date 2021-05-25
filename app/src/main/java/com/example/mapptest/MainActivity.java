@@ -24,6 +24,8 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.pedro.library.AutoPermissions;
 import com.pedro.library.AutoPermissionsListener;
 
+//https://console.cloud.google.com/home/dashboard?project=mapp-314800
+
 public class MainActivity extends AppCompatActivity
         implements OnMapReadyCallback, AutoPermissionsListener {
 
